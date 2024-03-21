@@ -1,5 +1,5 @@
 body {
-    background-color: #2e0143;
+    background-color: #0e0818;
     color: #fff;
     font-family: Roboto, sans-serif;
     margin: 0;
@@ -9,7 +9,7 @@ body {
 max-width: 500px;
 margin: 30px auto;
 padding: 20px;
-background-color: #5c2b73;
+background-color: #22133a;
 border-radius: 10px;
 }
 h1 {
@@ -29,7 +29,7 @@ input {
 button {
  padding: 8px 16px;
  font-size: 16px;
- background-color: #563d91;
+ background-color: #29005e;
  color: #fff;
  border: none;
 border-radius: 5px;
@@ -39,10 +39,10 @@ margin-top: 10px;
 ul {
 list-style-type: none;
 padding: 0;
-}
+} 
 li {
 padding: 10px;
-background-color: #66428f;
+background-color: #2c114f;
 margin-bottom: 5px;
 border-radius: 5px;
 display: flex;
@@ -50,7 +50,7 @@ justify-content: space-between;
 text-decoration: none;
 }
 li:hover {
- background-color: #8e5bc7;
+ background-color: #5d27a5;
 }
 li span {
     flex: 1;
