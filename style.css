@@ -47,7 +47,7 @@ margin-bottom: 5px;
 border-radius: 5px;
 display: flex;
 justify-content: space-between;
-
+text-decoration: none;
 }
 li:hover {
  background-color: #8e5bc7;
@@ -58,6 +58,7 @@ li span {
 }
 
 li .deleteButton {
+    text-decoration: none;
     margin-left: 5px;
 }
 
